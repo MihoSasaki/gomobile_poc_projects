@@ -5,6 +5,7 @@ This project is for demos applications build by gomobile.
 Running these commands.
 ```
 $ go mod tidy
+$ cd ./minigame
 $ go run main.go
 ```
 
