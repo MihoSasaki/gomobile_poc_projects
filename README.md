@@ -1,6 +1,13 @@
 # gomobile PoC Project
 This project is for demos applications build by gomobile.
 
+## How to run applications
+Running these commands.
+```
+$ go mod tidy
+$ go run main.go
+```
+
 ## minigame
 Sample application for 2D game by using [sprite engine](https://pkg.go.dev/golang.org/x/mobile/exp/sprite).
 
@@ -11,9 +18,13 @@ Sample application for 2D game by using [sprite engine](https://pkg.go.dev/golan
 - If a collision occurs, the player loses a life.
 - The game ends when the player's lives reach zero.
 
+https://github.com/user-attachments/assets/7bd3d9e9-9eaf-47ff-9ebe-b5a2e8b59e2f
+
 ## imageload
 Sample application of loading texture by png image.
 This is to show how to load png image and apply texture to the application
+
+<img width="470" alt="Screenshot 2024-11-03 at 12 07 37" src="https://github.com/user-attachments/assets/726b74a3-eb75-4f80-aa56-2500b4e80e56">
 
 ## Current issues(I found out)
 ### Android
