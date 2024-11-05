@@ -27,7 +27,7 @@ $ go run main.go
 Sample application of loading texture by png image.
 This is to show how to load png image and apply texture to the application
 
-<img width="470" alt="Screenshot 2024-11-03 at 12 07 37" src="https://github.com/user-attachments/assets/726b74a3-eb75-4f80-aa56-2500b4e80e56">
+<img width="470" alt="Screenshot 2024-11-05 at 22 26 53" src="https://github.com/user-attachments/assets/22c111f9-bffa-4b88-9141-657dbf0013c6">
 
 ### How to run applications
 
